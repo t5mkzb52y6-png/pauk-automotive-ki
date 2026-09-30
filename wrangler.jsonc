@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "pauk-automotive-ki",
-  "main": "src/index.js",
+  "main": "index.js",
   "compatibility_date": "2026-09-30",
   "workers_dev": true
 }
