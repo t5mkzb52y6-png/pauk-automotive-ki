@@ -1,0 +1,14 @@
+[
+  {
+    "source": "willhaben",
+    "url": "https://www.willhaben.at/iad/gebrauchtwagen/BEISPIEL",
+    "price": 13000,
+    "year": 2020,
+    "mileage": 100000,
+    "seller": "private",
+    "observedAt": "2026-09-30",
+    "identity": "Fahrzeug-001",
+    "note": "Beispiel ersetzen: Modell, Motor, Getriebe, Ausstattung und Zustand prüfen",
+    "comparable": false
+  }
+]

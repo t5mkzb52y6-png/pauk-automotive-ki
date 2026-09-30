@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pauk-automotive-ki",
+  "main": "index.js",
+  "compatibility_date": "2026-09-30",
+  "workers_dev": true,
+  "r2_buckets": [
+    {
+      "binding": "ARCHIVE",
+      "bucket_name": "pauk-fahrzeugarchiv"
+    }
+  ]
+}

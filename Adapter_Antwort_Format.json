@@ -1,0 +1,27 @@
+{
+  "source": "Name des berechtigten Datenanbieters",
+  "vehicle": {
+    "brand": "",
+    "model": "",
+    "submodel": "",
+    "engine": "",
+    "fuel": "",
+    "powerKw": "",
+    "displacement": "",
+    "transmission": "",
+    "year": "",
+    "body": ""
+  },
+  "history": [
+    {
+      "date": "2026-01-01",
+      "type": "Service",
+      "description": "Eintrag aus tatsächlicher Quelle",
+      "mileage": "50000",
+      "source": "Hersteller / Datenanbieter"
+    }
+  ],
+  "warnings": [
+    "Hinweise zur Datenabdeckung"
+  ]
+}

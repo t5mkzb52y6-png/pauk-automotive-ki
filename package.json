@@ -1,6 +1,6 @@
 {
   "name": "pauk-automotive-ki",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "private": true,
   "scripts": {
     "deploy": "wrangler deploy",
